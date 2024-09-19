@@ -2,6 +2,7 @@
 
 Este projeto é um simples gerenciador de tarefas desenvolvido como parte da aula 28 - Praticando Funções e Eventos do DOM, no contexto do curso Turma Full Stack 2 (+praTi e Codifica) - 2024/2. Ele permite ao usuário adicionar, editar e remover tarefas de uma lista.
 
+## pagina: https://teofilonicolau.github.io/novo_gerenciador_tarefas/
 ## Funcionalidades
 ![image](https://github.com/user-attachments/assets/17888580-79f0-4714-8927-bb7b2e3e6fdf)
 
